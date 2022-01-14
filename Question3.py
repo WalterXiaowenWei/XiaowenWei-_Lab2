@@ -8,4 +8,4 @@ while x > 0:
     height = int(input("Please input the height in meters for the cylinder: "))
     pi = math.pi
     volume = pi * (0.5 * diameter)**2*height
-    print("The volume of the cylinder is ", volume, "cubic metres" )
+    print("The volume of the cylinder is ", volume, "cubic meters" )
