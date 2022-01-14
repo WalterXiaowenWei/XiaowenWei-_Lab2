@@ -1,5 +1,4 @@
 #1) Take a variable with distance in kilometres as input and output the same distance converted to miles.
-
 x = 1 
 while x > 0:
     x += 1
