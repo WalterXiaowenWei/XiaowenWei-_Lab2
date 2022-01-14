@@ -5,6 +5,6 @@ while x > 0:
     x += 1
     input_kilometres = int(input("please input the distance in kilometres: "))
     input_miles = input_kilometres * 0.621371
-    print("Your input kilometres is equal to ", input_miles)
+    print("Your input kilometres is equal to ", input_miles, "miles")
     
         
